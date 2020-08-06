@@ -6,7 +6,7 @@ For this project, I will investigate the European Soccer Database from Kaggle wh
 
 The key questions that I would like to answer include:
 
-Home fortress?: Does a home advantage exist, and if so, which league has the strongest such advantage?
-Who are the goal machines and goal leakers?: Who are the best and worst performing home and away teams?
-Who runs North London?: Which team in North London has achieved the most wins?
-Speedy gonzales: Is pace a factor in a player's overall rating?
+- **Home fortress?:** Does a home advantage exist, and if so, which league has the strongest such advantage?
+- **Who are the goal machines and goal leakers?:** Who are the best and worst performing home and away teams?
+- **Who runs North London?:** Which team in North London has achieved the most wins?
+- **Speedy gonzales:** Is pace a factor in a player's overall rating?
