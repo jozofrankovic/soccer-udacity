@@ -1,8 +1,8 @@
-# soccer-udacity
+# Project 2: Investigate the European Soccer Database¶
 
 ## Introduction
 
-For this project, I will investigate the European Soccer Database from Kaggle which contains seven tables: "Country", "League", "Match", "Player", "Player_Attributes", "Team", and "Team_Attributes". This dataset covers 11 of the top European leagues from 2008 to 2016. As a lifelong football tragic, it was an easy choice to select this dataset for investigation.
+As part of the Udacity Data Analyst Nanodegree, I am required to complete a number of practical projects. For this project, I will investigate the European Soccer Database from Kaggle which contains seven tables: "Country", "League", "Match", "Player", "Player_Attributes", "Team", and "Team_Attributes". This dataset covers 11 of the top European leagues from 2008 to 2016. As a lifelong football tragic, it was an easy choice to select this dataset for investigation.
 
 The key questions that I would like to answer include:
 
